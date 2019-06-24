@@ -4,6 +4,9 @@
 * [Form1.cs](./CS/XtraChart_PointOptions/Form1.cs) (VB: [Form1.vb](./VB/XtraChart_PointOptions/Form1.vb))
 <!-- default file list end -->
 # OBSOLETE -  How to adjust  point options of the Pie series view type at runtime
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3801)**
+<!-- run online end -->
 
 
 <p>The following example demonstrates how to specify the appearance of series labels in the Pie chart using its point options.</p>
